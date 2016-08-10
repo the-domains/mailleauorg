@@ -1,4 +1,3 @@
-layout_spectrum: 0.6111174528487027
 typography_spectrum: 0.5942358649335802
 color:
   brandStrength: 0.009229381335899234
@@ -11,4 +10,6 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.6111174528487027
 name: Mailleau.org
+title: Stéphane Mailleau
