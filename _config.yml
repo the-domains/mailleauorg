@@ -1,0 +1,14 @@
+layout_spectrum: 0.6111174528487027
+typography_spectrum: 0.5942358649335802
+color:
+  brandStrength: 0.009229381335899234
+  lightness: 0.33352843415923417
+  saturation: 0.4873480102978647
+  rhythmicContrast: 0.7455071820877492
+  brandColors:
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+name: Mailleau.org
